@@ -1,4 +1,4 @@
-
+//used ESP32 devkit V1
 #include <Wire.h>
 
 #define SDA_PIN 18
